@@ -34,9 +34,9 @@ The Maze Solver employs a reinforcement learning approach, specifically **Q-Lear
 
 
 
-# Othello AI Player
+## Othello AI Player
 
-## Description
+### Description
 An intelligent AI agent designed to play the classic game of Othello (Reversi) with strategic decision-making powered by advanced algorithms.
 
 ## Features
